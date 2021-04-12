@@ -13,6 +13,9 @@ Andere Projekte:
 * Emergency Map (Wambacher): [Karte (Ausschnitt
   Potsdam)](https://wambachers-osm.website/Emergency.html#zoom=14&lat=52.39926&lon=13.06569&layer=OpenStreetMap.de)
 * [OsmHydrant](https://www.osmhydrant.org/de/): Nur Wien
+* FireYak: [Google
+  Play](https://play.google.com/store/apps/details?id=at.jst.fireyak&hl=de),
+  [Online-Karte](https://www.fireyak.org/)
 
 Datenquellen:
 * [Analyse zu Daten in OpenStreetMap](openstreetmap)
