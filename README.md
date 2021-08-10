@@ -21,8 +21,10 @@
 
 ### Geoportal Landesbetrieb Forst
 
+* [Inspire-Datensätze Geoportal Forst](https://www.brandenburg-forst.de/inspire/dls/)
 * [WES Datensatz Geoportal Forst](http://www.brandenburg-forst.de/inspire/dls/fuek_wes) Datensatz [hier](https://geoportal.brandenburg.de/detailansichtdienst/render?view=gdibb&url=https%3A%2F%2Fregistry.gdi-de.org%2Fid%2Fde.bb.metadata%2FEE4C8A1C-FB73-4F6F-8C36-1D09B2217B17) gefunden.
 * [GeoServer](http://www.brandenburg-forst.de/geoserver)
+* [Rettungspunkte-Datensatz Geoportal Forst](https://www.brandenburg-forst.de/inspire/dls/fuek_rp/)
 
 ### OpenStreetMap
 
